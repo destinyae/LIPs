@@ -21,4 +21,4 @@ All of these can go through an LIP process. Lens Open Algorithm Standards are th
 
 ## Supported standards
 
-You can see all the supported standards which that are supported and shaped by LIPs [here](./supported-standards/README.md).
+You can see all the supported standards that are supported and shaped by LIPs [here](./supported-standards/README.md).
